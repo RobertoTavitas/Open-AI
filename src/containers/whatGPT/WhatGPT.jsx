@@ -10,13 +10,13 @@ const WhatGPT = () => {
           <div className="what-feature">
             <Feature 
               title="What is lorem ipsum?" 
-              text="Lorem ipsum dolor sit amet."
+              text="Lorem ipsum dolor sit amet. 1"
             />
           </div>
 
           <div className="what-heading">
-            <h1 className="gradient__text">Lorem ipsum dolor sit amet.</h1>
-            <p>Lorem ipsum dolor.</p>
+            <h1 className="gradient__text">Lorem ipsum dolor sit amet. h1</h1>
+            <p>este es el p</p>
           </div>
 
           <div className="what-container">
