@@ -38,9 +38,9 @@ const Footer = () => {
 
             <div className="footer-links-div">
               <h4>Get in Touch</h4>
-              <p>Adress</p>
-              <p>phone number</p>
-              <p>mail</p>
+              <p>Mexico</p>
+              <p>+52 1 5573299238</p>
+              <p>robertomirandatavitas@gmail.com</p>
             </div>
 
           </div>
