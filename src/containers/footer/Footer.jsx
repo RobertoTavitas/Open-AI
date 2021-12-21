@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="footer section__padding">
 
           <div className="footer-heading">
-            <h1 className="gradient__text">Step into the future</h1>
+            <h1 className="gradient__text">Do you want to step in to the future before others</h1>
           </div>
 
           <div className="footer-btn">
@@ -46,7 +46,7 @@ const Footer = () => {
           </div>
 
           <div className="footer-copyright">
-            <p>2021 Roberto Tavitas App. All rights reserved.</p>
+            <p>2021 Roberto Tavitas. All rights reserved.</p>
           </div>
 
         </div>

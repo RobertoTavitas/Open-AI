@@ -9,8 +9,8 @@ const Header = () => {
       <div id="home" className="header section__padding">
 
         <div className="header-content">
-          <h1 className="gradient__text">Let's Build Something Amazing with GPT-3 OpenAI</h1>
-          <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere ut hic officia, odit amet quaerat expedita ab. A ducimus iste molestias reprehenderit ex deserunt accusantium consequuntur consequatur ea? Officia, ducimus!</p>
+          <h1 className="gradient__text">Let’s Build Something amazing with GPT-3 OpenAI</h1>
+          <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
 
           <div className="header-content-input">
             <input type="email" name=" " id="" placeholder="Your Email Address" />
@@ -19,7 +19,7 @@ const Header = () => {
 
           <div className="header-content-people">
             <img src={people} alt="people" />
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+            <p>1,600 people requested access a visit in last 24 hours.</p>
           </div>
           
         </div>

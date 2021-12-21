@@ -9,7 +9,7 @@ const Blog = () => {
         <div id="blog" className="blog section__padding">
 
           <div className="blog-heading">
-            <h1 className="gradient__text">Holaaaa</h1>
+            <h1 className="gradient__text">A lot is happening, We are blogging about it.</h1>
           </div>
 
           <div className="blog-container">
@@ -17,7 +17,7 @@ const Blog = () => {
               <Article
                 imgURL={ blog01 } 
                 date="Dec 1st 2021" 
-                title="Article Title"
+                title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
             </div>
 
@@ -25,25 +25,24 @@ const Blog = () => {
               <Article
                 imgURL={ blog02 } 
                 date="Dec 1st 2021" 
-                title="Article Title"
+                title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
               <Article
                 imgURL={ blog03 } 
                 date="Dec 1st 2021" 
-                title="Article Title"
+                title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
               <Article
                 imgURL={ blog04 } 
                 date="Dec 1st 2021" 
-                title="Article Title"
+                title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
               <Article
                 imgURL={ blog05 } 
                 date="Dec 1st 2021" 
-                title="Article Title"
+                title="GPT-3 and Open  AI is the future. Let us exlore how it is?"
               />
             </div> 
-
           </div>
         </div>
     )

@@ -9,28 +9,28 @@ const WhatGPT = () => {
 
           <div className="what-feature">
             <Feature 
-              title="What is lorem ipsum?" 
-              text="Lorem ipsum dolor sit amet. 1"
+              title="What is GPT-3" 
+              text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by."
             />
           </div>
 
           <div className="what-heading">
-            <h1 className="gradient__text">Lorem ipsum dolor sit amet. h1</h1>
-            <p>este es el p</p>
+            <h1 className="gradient__text">The possibilities are beyond your imagination1</h1>
+            <p>Explore The Library</p>
           </div>
 
           <div className="what-container">
             <Feature 
-                title="What is lorem ipsum?" 
-                text="Lorem ipsum dolor sit amet."
+                title="Chatbots" 
+                text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. "
               />
               <Feature 
-              title="What is lorem ipsum?" 
-              text="Lorem ipsum dolor sit amet."
+              title="Knowledgebase" 
+              text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments."
             />
             <Feature 
-              title="What is lorem ipsum?" 
-              text="Lorem ipsum dolor sit amet."
+              title="Education" 
+              text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments."
             />
           </div>
         </div>
