@@ -1,6 +1,5 @@
 {
-  "homepage": "https://robertotavitas.github.io/responsive-react-website/",
-  "name": "responsive-react-website",
+  "name": "gpt3-open-ai",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
